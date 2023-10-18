@@ -5,5 +5,5 @@ menu.addEventListener("click", () => {
 
 let sorte = document.querySelector("#btn-sorte")
 sorte.addEventListener("click", () => {
-    location.href = "https://class.hcode.com.br"
+    location.href = "https://www.hcode.com.br"
 })
